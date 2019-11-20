@@ -1,0 +1,6 @@
+C:\Users\shilo\source\repos\dotNet5780_01_1037_5201\part1\bin\Debug\part1.exe.config
+C:\Users\shilo\source\repos\dotNet5780_01_1037_5201\part1\bin\Debug\part1.exe
+C:\Users\shilo\source\repos\dotNet5780_01_1037_5201\part1\bin\Debug\part1.pdb
+C:\Users\shilo\source\repos\dotNet5780_01_1037_5201\part1\obj\Debug\part1.csprojAssemblyReference.cache
+C:\Users\shilo\source\repos\dotNet5780_01_1037_5201\part1\obj\Debug\part1.exe
+C:\Users\shilo\source\repos\dotNet5780_01_1037_5201\part1\obj\Debug\part1.pdb

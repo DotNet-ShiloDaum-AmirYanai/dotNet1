@@ -1,6 +1,0 @@
-C:\Users\shilo\source\repos\dotNet5780_01_1037\dotNet5780_01_1037\bin\Debug\dotNet5780_01_1037.exe.config
-C:\Users\shilo\source\repos\dotNet5780_01_1037\dotNet5780_01_1037\bin\Debug\dotNet5780_01_1037.exe
-C:\Users\shilo\source\repos\dotNet5780_01_1037\dotNet5780_01_1037\bin\Debug\dotNet5780_01_1037.pdb
-C:\Users\shilo\source\repos\dotNet5780_01_1037\dotNet5780_01_1037\obj\Debug\dotNet5780_01_1037.csprojAssemblyReference.cache
-C:\Users\shilo\source\repos\dotNet5780_01_1037\dotNet5780_01_1037\obj\Debug\dotNet5780_01_1037.exe
-C:\Users\shilo\source\repos\dotNet5780_01_1037\dotNet5780_01_1037\obj\Debug\dotNet5780_01_1037.pdb

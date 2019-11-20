@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E8AD7994-5D5F-486B-B9DB-0B6239B35941}</ProjectGuid>
+    <ProjectGuid>{832274E1-4866-406C-9142-F2E3D5301EA7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>dotNet5780_01A_1037</RootNamespace>
-    <AssemblyName>dotNet5780_01A_1037</AssemblyName>
+    <RootNamespace>part2</RootNamespace>
+    <AssemblyName>part2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
